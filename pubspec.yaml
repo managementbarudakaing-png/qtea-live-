@@ -1,0 +1,14 @@
+name: qtea_live
+description: QTEA LIVE Momo style Bandung
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  agora_rtc_engine: ^6.3.2
+  permission_handler: ^11.3.0
+flutter:
+  uses-material-design: true
